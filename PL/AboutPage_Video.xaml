@@ -1,0 +1,51 @@
+﻿<Page x:Class="Ask.PL.AboutPage_Video"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Ask.PL"
+      mc:Ignorable="d" 
+      d:DesignWidth="765" Height="495"
+      Title="AboutPage_Video">
+
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <MediaElement x:Name="video" Source="F:\programming projects\Ask\Ask\PL\Media\AhmedHafezPresentation.mp4" 
+                      Grid.Row="0" Grid.Column="0"
+                      HorizontalAlignment="Right" VerticalAlignment="Top"
+                      LoadedBehavior="Manual" Height="205" Width="366" Margin="0,0,-0.2,0"/>
+
+        <Image Source="Media\234.jpg"
+               VerticalAlignment="Center" HorizontalAlignment="Right" Margin="0,120,0,0"
+               Width="205" Height="205"/>
+
+        <TextBlock HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,40" 
+                   TextWrapping="Wrap" Width="380"
+                   Text="     This Application was created to make question game by inserting some questions in the program and then make  any one start the game ."
+                   FontSize="28" Foreground="#FF0600FF" FontFamily="Sylfaen"/>
+
+        <TextBlock HorizontalAlignment="Left" VerticalAlignment="Top"  Margin="20,220,0,0"
+                   TextWrapping="Wrap" Width="525"
+                   Text="    To insert questions go to file then Insert and insert your questions."
+                   FontSize="28" Foreground="Blue" FontFamily="Sylfaen"/>
+
+        <TextBlock HorizontalAlignment="Left" VerticalAlignment="Top"  Margin="20,290,0,0"
+                   TextWrapping="Wrap" Width="525"
+                   Text="    To delete questions go to file then Delete and delete your questions."
+                   FontSize="28" Foreground="#FF0600FF" FontFamily="Sylfaen"/>
+
+        <TextBlock HorizontalAlignment="Left" VerticalAlignment="Top"  Margin="20,400,0,0"
+                   TextWrapping="Wrap" Width="525"
+                   Text="All rights reserved to the programmer : Ahmed Hafez               Day : 11/4/2018"
+                   FontSize="28" Foreground="Red" FontFamily="Sylfaen"/>
+
+    </Grid>
+</Page>

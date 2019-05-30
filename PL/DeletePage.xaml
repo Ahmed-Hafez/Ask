@@ -1,0 +1,33 @@
+﻿<Page x:Class="Ask.PL.DeletePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Ask.PL"
+      mc:Ignorable="d" 
+      d:DesignWidth="765" Height="495"
+      Title="DeletePage">
+
+    <Grid>
+
+        <Button x:Name="DeleteBtn" Content="Delete" FontSize="20"
+                MinWidth="100" MinHeight="50" Background="#1565C0" BorderBrush="#01579B" 
+                BorderThickness="5" Foreground="WhiteSmoke" Margin="595,428,18.2,14" Width="150" Height="50" Click="DeleteBtn_Click" />
+
+        <Button x:Name="DeleteAllBtn" Content="Delete all" FontSize="20" Click="DeleteAllBtn_Click"
+                MinWidth="100" MinHeight="50" Background="#1565C0" BorderBrush="#01579B" 
+                BorderThickness="5" Foreground="WhiteSmoke" Margin="406,430,179.8,15.2" Height="50" />
+
+
+        <DataGrid x:Name="QuestionDataGridView" Height="396" Margin="10,10,0,0" Width="745" AutoGenerateColumns="True" ColumnWidth="auto" 
+                  MinColumnWidth="140" CanUserResizeColumns="True" CanUserResizeRows="True" 
+                  Background="#FFE3F2FD" BorderBrush="#FFE3F2FD" Foreground="Black" 
+                  HorizontalAlignment="Left" VerticalAlignment="Top"
+                  HorizontalContentAlignment="Center" VerticalContentAlignment="Center"
+                  SelectedIndex="0" AlternatingRowBackground="#FF1A88D1" RowBackground="#FF1565C0" FontSize="18"/>
+
+        <Button x:Name="startBtn" Content="Start Game" FontSize="20" Click="startBtn_Click"
+                MinWidth="100" MinHeight="50" Background="#1565C0" BorderBrush="#01579B" 
+                BorderThickness="5" Foreground="WhiteSmoke" Margin="13,430,572.8,15.2" Height="50" />
+    </Grid>
+</Page>

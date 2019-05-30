@@ -1,0 +1,43 @@
+﻿<Page x:Class="Ask.PL.SelectPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Ask.PL"
+      mc:Ignorable="d" 
+      d:DesignWidth="765" Height="495"
+      Title="SelectPage">
+
+    <Grid>
+        
+        <TextBlock HorizontalAlignment="Left" Margin="34,151,0,0" TextWrapping="Wrap" 
+                   Text="Number of Questions" VerticalAlignment="Top" FontSize="24" Height="30"/>
+        
+        <TextBlock HorizontalAlignment="Left" Margin="34,206,0,0" TextWrapping="Wrap" 
+                   Text="Question Level" VerticalAlignment="Top" FontSize="24" Height="30"/>
+        
+        <TextBlock HorizontalAlignment="Left" Margin="34,260,0,0" TextWrapping="Wrap" 
+                   Text="Question Kind" VerticalAlignment="Top" FontSize="24" Height="30"/>
+        
+        <TextBox  x:Name="numberOfQuestionsTxt" HorizontalAlignment="Left" Height="30" 
+                  Margin="284,154,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="22"/>
+        
+        <ComboBox x:Name="LevelComboBox" HorizontalAlignment="Left" Height="30" 
+                  Margin="284,209,0,0" VerticalAlignment="Top" Width="120" FontSize="20" Padding="10,0,15,0"/>
+        
+        <ComboBox x:Name="KindComboBox" HorizontalAlignment="Left" Height="30" 
+                  Margin="284,260,0,0" VerticalAlignment="Top" Width="255" FontSize="20" Padding="10,0,15,0"/>
+        
+        <TextBlock HorizontalAlignment="Left" Margin="544,265,0,0" TextWrapping="Wrap" Text="*optional" 
+                   VerticalAlignment="Top" FontSize="20" Height="30" Foreground="Red" FontFamily="Sitka Small"/>
+
+        <Button x:Name="StartBtn" Content="Start" FontSize="20"
+                MinWidth="100" MinHeight="50" Background="#1565C0" BorderBrush="#01579B" 
+                BorderThickness="5" Foreground="WhiteSmoke" Margin="595.8,429.6,19,15.6" Width="150" Height="50" Click="StartBtn_Click" />
+        
+        <TextBlock HorizontalAlignment="Left" Margin="137,26,0,0" TextWrapping="Wrap" Text="Information"
+                   VerticalAlignment="Top" FontSize="66" Height="68" FontFamily="Trajan Pro 3" 
+                   Foreground="#FF01579B" TextDecorations="Underline"/>
+
+    </Grid>
+</Page>

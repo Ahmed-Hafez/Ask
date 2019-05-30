@@ -1,0 +1,87 @@
+F:\programming projects\Ask\Ask\bin\Debug\Ask.exe.config
+F:\programming projects\Ask\Ask\bin\Debug\Ask.exe
+F:\programming projects\Ask\Ask\bin\Debug\Ask.pdb
+F:\programming projects\Ask\Ask\obj\Debug\App.g.cs
+F:\programming projects\Ask\Ask\obj\Debug\Ask_MarkupCompile.cache
+F:\programming projects\Ask\Ask\obj\Debug\Ask.Properties.Resources.resources
+F:\programming projects\Ask\Ask\obj\Debug\Ask.csproj.GenerateResource.cache
+F:\programming projects\Ask\Ask\obj\Debug\Ask.csproj.CoreCompileInputs.cache
+F:\programming projects\Ask\Ask\obj\Debug\Ask.exe
+F:\programming projects\Ask\Ask\obj\Debug\Ask.pdb
+F:\programming projects\Ask\Ask\obj\Debug\Ask_MarkupCompile.lref
+F:\programming projects\Ask\Ask\obj\Debug\Ask.g.resources
+F:\programming projects\Ask\Ask\obj\Debug\PL\MainWindow.g.cs
+F:\programming projects\Ask\Ask\obj\Debug\PL\MainWindow.baml
+F:\programming projects\Ask\Ask\obj\Debug\PL\InsertQuestionWindow.g.cs
+F:\programming projects\Ask\Ask\obj\Debug\PL\InsertQuestionWindow.baml
+F:\programming projects\Ask\Ask\obj\Debug\PL\DeletePage.g.cs
+F:\programming projects\Ask\Ask\obj\Debug\PL\SelectPage.g.cs
+F:\programming projects\Ask\Ask\obj\Debug\PL\DeletePage.baml
+F:\programming projects\Ask\Ask\obj\Debug\PL\SelectPage.baml
+F:\programming projects\Ask\Ask\obj\Debug\PL\MainPage.g.cs
+F:\programming projects\Ask\Ask\obj\Debug\PL\MainPage.baml
+E:\ASK project\second update\Ask\Ask\bin\Debug\Ask.exe.config
+E:\ASK project\second update\Ask\Ask\bin\Debug\Ask.exe
+E:\ASK project\second update\Ask\Ask\bin\Debug\Ask.pdb
+E:\ASK project\second update\Ask\Ask\obj\Debug\Ask.csprojResolveAssemblyReference.cache
+E:\ASK project\second update\Ask\Ask\obj\Debug\PL\DeletePage.g.cs
+E:\ASK project\second update\Ask\Ask\obj\Debug\PL\InsertQuestionWindow.g.cs
+E:\ASK project\second update\Ask\Ask\obj\Debug\PL\MainPage.g.cs
+E:\ASK project\second update\Ask\Ask\obj\Debug\PL\MainWindow.g.cs
+E:\ASK project\second update\Ask\Ask\obj\Debug\PL\SelectPage.g.cs
+E:\ASK project\second update\Ask\Ask\obj\Debug\App.g.cs
+E:\ASK project\second update\Ask\Ask\obj\Debug\Ask_MarkupCompile.cache
+E:\ASK project\second update\Ask\Ask\obj\Debug\Ask_MarkupCompile.lref
+E:\ASK project\second update\Ask\Ask\obj\Debug\PL\DeletePage.baml
+E:\ASK project\second update\Ask\Ask\obj\Debug\PL\InsertQuestionWindow.baml
+E:\ASK project\second update\Ask\Ask\obj\Debug\PL\MainPage.baml
+E:\ASK project\second update\Ask\Ask\obj\Debug\PL\MainWindow.baml
+E:\ASK project\second update\Ask\Ask\obj\Debug\PL\SelectPage.baml
+E:\ASK project\second update\Ask\Ask\obj\Debug\Ask.g.resources
+E:\ASK project\second update\Ask\Ask\obj\Debug\Ask.Properties.Resources.resources
+E:\ASK project\second update\Ask\Ask\obj\Debug\Ask.csproj.GenerateResource.cache
+E:\ASK project\second update\Ask\Ask\obj\Debug\Ask.csproj.CoreCompileInputs.cache
+E:\ASK project\second update\Ask\Ask\obj\Debug\Ask.exe
+E:\ASK project\second update\Ask\Ask\obj\Debug\Ask.pdb
+E:\ASK project\second update\Ask\Ask\obj\Debug\PL\NewGamePage.g.cs
+E:\ASK project\second update\Ask\Ask\obj\Debug\PL\NewGamePage.baml
+E:\ASK project\second update\Ask\Ask\obj\Debug\PL\EndPage.g.cs
+E:\ASK project\second update\Ask\Ask\obj\Debug\PL\EndPage.baml
+F:\programming projects\Ask updated version 2\Ask\Ask\bin\Debug\Ask.exe.config
+F:\programming projects\Ask updated version 2\Ask\Ask\bin\Debug\Ask.exe
+F:\programming projects\Ask updated version 2\Ask\Ask\bin\Debug\Ask.pdb
+F:\programming projects\Ask updated version 2\Ask\Ask\obj\Debug\Ask.csprojResolveAssemblyReference.cache
+F:\programming projects\Ask updated version 2\Ask\Ask\obj\Debug\PL\DeletePage.g.cs
+F:\programming projects\Ask updated version 2\Ask\Ask\obj\Debug\PL\EndPage.g.cs
+F:\programming projects\Ask updated version 2\Ask\Ask\obj\Debug\PL\InsertQuestionWindow.g.cs
+F:\programming projects\Ask updated version 2\Ask\Ask\obj\Debug\PL\MainPage.g.cs
+F:\programming projects\Ask updated version 2\Ask\Ask\obj\Debug\PL\MainWindow.g.cs
+F:\programming projects\Ask updated version 2\Ask\Ask\obj\Debug\PL\NewGamePage.g.cs
+F:\programming projects\Ask updated version 2\Ask\Ask\obj\Debug\PL\SelectPage.g.cs
+F:\programming projects\Ask updated version 2\Ask\Ask\obj\Debug\App.g.cs
+F:\programming projects\Ask updated version 2\Ask\Ask\obj\Debug\Ask_MarkupCompile.cache
+F:\programming projects\Ask updated version 2\Ask\Ask\obj\Debug\Ask_MarkupCompile.lref
+F:\programming projects\Ask updated version 2\Ask\Ask\obj\Debug\PL\DeletePage.baml
+F:\programming projects\Ask updated version 2\Ask\Ask\obj\Debug\PL\EndPage.baml
+F:\programming projects\Ask updated version 2\Ask\Ask\obj\Debug\PL\InsertQuestionWindow.baml
+F:\programming projects\Ask updated version 2\Ask\Ask\obj\Debug\PL\MainPage.baml
+F:\programming projects\Ask updated version 2\Ask\Ask\obj\Debug\PL\MainWindow.baml
+F:\programming projects\Ask updated version 2\Ask\Ask\obj\Debug\PL\NewGamePage.baml
+F:\programming projects\Ask updated version 2\Ask\Ask\obj\Debug\PL\SelectPage.baml
+F:\programming projects\Ask updated version 2\Ask\Ask\obj\Debug\Ask.g.resources
+F:\programming projects\Ask updated version 2\Ask\Ask\obj\Debug\Ask.Properties.Resources.resources
+F:\programming projects\Ask updated version 2\Ask\Ask\obj\Debug\Ask.csproj.GenerateResource.cache
+F:\programming projects\Ask updated version 2\Ask\Ask\obj\Debug\Ask.csproj.CoreCompileInputs.cache
+F:\programming projects\Ask updated version 2\Ask\Ask\obj\Debug\Ask.exe
+F:\programming projects\Ask updated version 2\Ask\Ask\obj\Debug\Ask.pdb
+F:\programming projects\Ask updated version 2\Ask\Ask\obj\Debug\PL\AboutPage_Video.g.cs
+F:\programming projects\Ask updated version 2\Ask\Ask\obj\Debug\Ask_Content.g.cs
+F:\programming projects\Ask updated version 2\Ask\Ask\obj\Debug\PL\AboutPage_Video.baml
+F:\programming projects\Ask\Ask\obj\Debug\PL\AboutPage_Video.g.cs
+F:\programming projects\Ask\Ask\obj\Debug\PL\EndPage.g.cs
+F:\programming projects\Ask\Ask\obj\Debug\PL\NewGamePage.g.cs
+F:\programming projects\Ask\Ask\obj\Debug\Ask_Content.g.cs
+F:\programming projects\Ask\Ask\obj\Debug\PL\AboutPage_Video.baml
+F:\programming projects\Ask\Ask\obj\Debug\PL\EndPage.baml
+F:\programming projects\Ask\Ask\obj\Debug\PL\NewGamePage.baml
+F:\programming projects\Ask\Ask\obj\Debug\Ask.csprojAssemblyReference.cache
